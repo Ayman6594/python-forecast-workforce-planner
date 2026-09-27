@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+pytest>=7.4
+# tkinter fait partie de la bibliothèque standard Python sous Windows.
+# Sous Linux : sudo apt-get install python3-tk si "No module named tkinter".
